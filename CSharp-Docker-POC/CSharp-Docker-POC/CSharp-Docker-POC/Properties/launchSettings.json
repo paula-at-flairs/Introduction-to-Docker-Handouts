@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CSharp-Docker-POC": {
+      "commandName": "Project"
+    }
+  }
+}

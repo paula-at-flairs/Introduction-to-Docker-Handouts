@@ -1,0 +1,13 @@
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\bin\Release\netcoreapp3.1\CSharp-Docker-POC.exe
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\bin\Release\netcoreapp3.1\CSharp-Docker-POC.deps.json
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\bin\Release\netcoreapp3.1\CSharp-Docker-POC.runtimeconfig.json
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\bin\Release\netcoreapp3.1\CSharp-Docker-POC.runtimeconfig.dev.json
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\bin\Release\netcoreapp3.1\CSharp-Docker-POC.dll
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\bin\Release\netcoreapp3.1\CSharp-Docker-POC.pdb
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.csprojAssemblyReference.cache
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.AssemblyInfoInputs.cache
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.AssemblyInfo.cs
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.csproj.CoreCompileInputs.cache
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.dll
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.pdb
+C:\Users\paula.fahmy\Desktop\Docker Presentation\Handouts\CSharp-Docker-POC\CSharp-Docker-POC\CSharp-Docker-POC\obj\Release\netcoreapp3.1\CSharp-Docker-POC.genruntimeconfig.cache

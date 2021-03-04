@@ -1,0 +1,29 @@
+# Pull the SDK image from the registry
+# We are currently naming this step as "publish" because we will need the outcome later
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS publish
+
+# Create a new folder "src" and copy the .csproj file to the (to be created) WhalesAPI folder inside src folder
+# Finally restore nuget packages
+WORKDIR /src
+COPY ["WhalesAPI/WhalesAPI.csproj", "WhalesAPI/"]
+RUN dotnet restore "WhalesAPI/WhalesAPI.csproj"
+#-----------------------------------------------------------------
+
+# Copy everything else after the first step has succeeded
+COPY . .
+
+# Build and Publish the code to a folder "publish"
+WORKDIR "/src/WhalesAPI"
+RUN dotnet publish "WhalesAPI.csproj" -c Release -o /app/publish
+#-----------------------------------------------------------------
+
+# Pull the Runtime image from the registry
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-buster-slim
+
+# Create a new directory "app"
+WORKDIR /app
+# Copy the result from STEP 7 to the current working directory "app"
+COPY --from=publish /app/publish .
+
+EXPOSE 80
+ENTRYPOINT ["dotnet", "WhalesAPI.dll"]
